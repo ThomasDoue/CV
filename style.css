@@ -1,0 +1,24 @@
+.placement{
+    display: inline-flex;
+    padding: 10%;
+}
+
+body{
+    background-color: black;
+}
+.gauche{
+    color: white;
+    background-color: #494E5F;
+    padding: 2%;
+}
+.droit{
+    color: black;
+    background-color: white;
+    padding: 2%;
+}
+.titreg{
+    color: #FFDE59;
+}
+.titred{
+    color: #5271FF;
+}
