@@ -22,3 +22,9 @@ body{
 .titred{
     color: #5271FF;
 }
+@media screen and (max-width:720px) {
+    .placement{
+        flex-direction: column;
+        margin: 5%;
+    }
+}
