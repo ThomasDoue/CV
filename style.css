@@ -10,11 +10,13 @@ body{
     color: white;
     background-color: #494E5F;
     padding: 2%;
+    font-family: 'Anton', sans-serif;
 }
 .droit{
     color: black;
     background-color: white;
     padding: 2%;
+    font-family: 'Anton', sans-serif;
 }
 .titreg{
     color: #FFDE59;
